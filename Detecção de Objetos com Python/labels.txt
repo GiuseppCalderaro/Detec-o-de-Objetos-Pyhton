@@ -1,0 +1,6 @@
+0 mouse
+1 lapis de cor
+2 relogio
+3 apontador
+4 borracha
+5 wolverine
